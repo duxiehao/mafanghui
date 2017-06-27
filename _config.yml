@@ -1,5 +1,5 @@
 # Site
-title:              Moon
+title:              马方慧个人网站
 bio:                'Minimal, one column jekyll theme.'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
@@ -11,7 +11,7 @@ locale:             en_US
 url:                https://www.mafanghui.com
 
 # Jekyll
-permalink:          /:title/
+permalink:          /:title.html
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
@@ -55,7 +55,7 @@ instagram:          username
 #youtube:           username
 #youtube-channel:   channel
 #soundcloud:        username
-weibo:             /u/3896500839
+weibo:              u/3896500839
 #flickr:            username
 #codepen:           username
 #keybase:           username
