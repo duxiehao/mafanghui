@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "醒在睡梦中"
-date:   2017-06-23
+date:   2017-06-21
 excerpt: "为你写一首诗吧，我所思慕的人。"
 tag:
 - 睡梦中 
